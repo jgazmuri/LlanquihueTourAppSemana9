@@ -1,0 +1,5 @@
+Juan;Perez;30;12345678-9
+Maria;Gomez;25;7654321-K
+Carlos;Munoz;42;11222333-4
+Javier;Gazmuri;43;15099143-9
+Francisco;Gazmuri;43;15099142-0
