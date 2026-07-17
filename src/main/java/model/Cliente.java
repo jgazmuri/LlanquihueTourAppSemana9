@@ -46,7 +46,7 @@ public class Cliente  extends Persona implements Registrable {
     @Override
     public void mostrarDatos() {
 
-        System.out.println("--- DATOS DEL CLIENTE ---");
+        System.out.println("\n--- DATOS DEL CLIENTE ---\n");
         System.out.println("RUT: " + rut);
         System.out.println("Nombre: " + nombre);
         System.out.println("Apellido: " + apellido);

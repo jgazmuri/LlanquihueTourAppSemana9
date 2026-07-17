@@ -1,6 +1,7 @@
 package data;
 
 import model.Cliente;
+import model.Producto;
 import model.Registrable;
 
 import java.io.BufferedReader;
@@ -69,7 +70,13 @@ public class GestorServicio {
             return null;
         }
 
-    }
+        public void agregarServicio(Registrable servicio){
+
+        this.servicios.add(servicio);
+
+        }
+
+}
 
 
 
